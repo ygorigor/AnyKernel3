@@ -10,12 +10,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=beryllium
-device.name2=dipper
-device.name3=equuleus
-device.name4=perseus
-device.name5=polaris
-device.name6=ursa
+device.name1=RMX2001L1
+device.name2=mt6785
+device.name2=rm6785
 supported.versions=
 supported.patchlevels=
 '; } # end properties
